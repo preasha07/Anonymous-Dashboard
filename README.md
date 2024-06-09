@@ -1,7 +1,8 @@
 # Anonymous-Dashboard
 
 
-![MLSA Logo]([image](https://github.com/preasha07/Anonymous-Dashboard/assets/150994559/fe267c2e-cd1d-41f2-bdef-89fa29ead841)
+![Anonymous](![image](https://github.com/preasha07/Anonymous-Dashboard/assets/150994559/a134cdd8-e268-41b5-bb9d-c303f5c4fb5d)
+)
 
 <a>
   <h1 align="center">Mario-RL</h1>
