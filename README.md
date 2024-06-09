@@ -1,8 +1,6 @@
 # Anonymous-Dashboard
 
-
-![Anonymous](![image](https://github.com/preasha07/Anonymous-Dashboard/assets/150994559/a134cdd8-e268-41b5-bb9d-c303f5c4fb5d)
-)
+![Anonymous](https://github.com/preasha07/Anonymous-Dashboard/assets/150994559/0e917218-7394-4b9d-9095-6493d81faddd)
 
 <a>
   <h1 align="center">Mario-RL</h1>
